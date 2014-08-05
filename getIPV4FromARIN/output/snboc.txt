@@ -1,0 +1,4 @@
+OID,Product,Block,Date
+# The next 2 blocks belong to 205.244.200.0 - 205.244.202.255
+SNBOC,UNKNOWN,205.244.200.0/23
+SNBOC,UNKNOWN,205.244.202.0/24
