@@ -27,12 +27,12 @@ public class getIPV4FromARIN {
 	  processWebFile("QCC-22","IQ");
 	  processWebFile("QWEST-25","IT");
 */
-	  processWebFile("CENTEL","UNKNOWN");
+	  processWebFile("CENTEL","UNKNOWN");  // no content
 	  processWebFile("LIGHT-21","UNKNOWN");
 	  processWebFile("CIH-12","UNKNOWN");
 	  processWebFile("CSL-63","UNKNOWN");
 	  processWebFile("EMBAR","UNKNOWN");
-	  processWebFile("EMBAR-7","UNKNOWN");
+	  processWebFile("EMBAR-7","UNKNOWN"); // no content
 	  processWebFile("LTSF","UNKNOWN");
 	  processWebFile("SPER","UNKNOWN");
 	  processWebFile("LTDS","UNKNOWN");
